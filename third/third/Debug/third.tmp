@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Documents\my_dir\micro_asm\third\third\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Documents\my_dir\micro_asm\third\third\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Documents\my_dir\micro_asm\third\third\Debug\third.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>third.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>third.map</FILE>
+  <FILE>third.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inicio><FILE>D:\Documents\my_dir\micro_asm\third\third\main.asm</FILE><LINE>20</LINE></inicio>
+  <escreve_coisas><FILE>D:\Documents\my_dir\micro_asm\third\third\main.asm</FILE><LINE>47</LINE></escreve_coisas>
+  <loop_copia><FILE>D:\Documents\my_dir\micro_asm\third\third\main.asm</FILE><LINE>35</LINE></loop_copia>
+  <fim><FILE>D:\Documents\my_dir\micro_asm\third\third\main.asm</FILE><LINE>42</LINE></fim>
+  <loop_escreve><FILE>D:\Documents\my_dir\micro_asm\third\third\main.asm</FILE><LINE>52</LINE></loop_escreve>
+ </LABELS>
+</ASSEMBLER_INFO>

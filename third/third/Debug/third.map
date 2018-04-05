@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.2.7  D:\Documents\my_dir\micro_asm\first\first\main.asm Thu Apr 05 15:09:14 2018
+AVRASM ver. 2.2.7  D:\Documents\my_dir\micro_asm\third\third\main.asm Thu Apr 05 14:26:43 2018
 
 
 EQU  SIGNATURE_000 0000001e
@@ -695,10 +695,14 @@ EQU  ACIaddr      0000002e
 EQU  TWIaddr      00000030
 EQU  SPMRaddr     00000032
 EQU  INT_VECTORS_SIZE 00000034
-EQU  CONTAGEM1    000000ca
-EQU  CONTAGEM2    000000a4
+EQU  n_vezes      0000000f
+EQU  valor        0000002f
+EQU  end_origem   00000200
+EQU  end_destino  00000257
+DEF  r_contador   r18
+DEF  r_dados      r17
 CSEG inicio       00000040
-CSEG program      00000044
-CSEG timer_100ms  00000400
-CSEG outer_loop   00000403
-CSEG inner_loop   00000404
+CSEG escreve_coisas 00000100
+CSEG loop_copia   0000004b
+CSEG fim          0000004f
+CSEG loop_escreve 00000104

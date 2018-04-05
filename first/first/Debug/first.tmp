@@ -1,18 +1,18 @@
 <ASSEMBLER_INFO>
  <VERSION>2.2.7</VERSION>
  <DEVICE>"ATmega328P"</DEVICE>
- <WORKING_DIR>D:\Programming\ATMega\Assembly\micro_asm\first\first\first\Debug</WORKING_DIR>
+ <WORKING_DIR>D:\Documents\my_dir\micro_asm\first\first\Debug</WORKING_DIR>
  <INCLUDE_PATH>
-  <DIR>D:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
-  <DIR>D:\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
   <DIR></DIR>
  </INCLUDE_PATH>
- <SOURCE_FILE>D:\Programming\ATMega\Assembly\micro_asm\first\first\first\main.asm</SOURCE_FILE>
+ <SOURCE_FILE>D:\Documents\my_dir\micro_asm\first\first\main.asm</SOURCE_FILE>
  <INCLUDED_FILES>
-  <FILE>D:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
  </INCLUDED_FILES>
  <OBJECT_FILES>
-  <FILE>D:\Programming\ATMega\Assembly\micro_asm\first\first\first\Debug\first.obj</FILE>
+  <FILE>D:\Documents\my_dir\micro_asm\first\first\Debug\first.obj</FILE>
  </OBJECT_FILES>
  <HEX_FILES>
   <FILE>first.hex</FILE>
@@ -22,10 +22,10 @@
   <FILE>first.lss</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <inicio><FILE>D:\Programming\ATMega\Assembly\micro_asm\first\first\first\main.asm</FILE><LINE>16</LINE></inicio>
-  <program><FILE>D:\Programming\ATMega\Assembly\micro_asm\first\first\first\main.asm</FILE><LINE>22</LINE></program>
-  <timer_100ms><FILE>D:\Programming\ATMega\Assembly\micro_asm\first\first\first\main.asm</FILE><LINE>31</LINE></timer_100ms>
-  <outer_loop><FILE>D:\Programming\ATMega\Assembly\micro_asm\first\first\first\main.asm</FILE><LINE>35</LINE></outer_loop>
-  <inner_loop><FILE>D:\Programming\ATMega\Assembly\micro_asm\first\first\first\main.asm</FILE><LINE>37</LINE></inner_loop>
+  <inicio><FILE>D:\Documents\my_dir\micro_asm\first\first\main.asm</FILE><LINE>16</LINE></inicio>
+  <program><FILE>D:\Documents\my_dir\micro_asm\first\first\main.asm</FILE><LINE>22</LINE></program>
+  <timer_100ms><FILE>D:\Documents\my_dir\micro_asm\first\first\main.asm</FILE><LINE>31</LINE></timer_100ms>
+  <outer_loop><FILE>D:\Documents\my_dir\micro_asm\first\first\main.asm</FILE><LINE>35</LINE></outer_loop>
+  <inner_loop><FILE>D:\Documents\my_dir\micro_asm\first\first\main.asm</FILE><LINE>37</LINE></inner_loop>
  </LABELS>
 </ASSEMBLER_INFO>

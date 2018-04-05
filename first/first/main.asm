@@ -5,8 +5,8 @@
 ; Author : THIAGO
 ; Version: v1.0.0 (29-03-2018-16:13:04)
 
-.equ CONTAGEM1 = 0xCA
-.equ CONTAGEM2 = 0xA4
+.equ CONTAGEM1 = 0xCA; = 202
+.equ CONTAGEM2 = 0xA4; = 164
 
 .org 0x0000
 	rjmp inicio
