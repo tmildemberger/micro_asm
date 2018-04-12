@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Programming\ATMega\Assembly\micro_asm\forth\forth\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>D:\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Programming\ATMega\Assembly\micro_asm\forth\forth\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Programming\ATMega\Assembly\micro_asm\forth\forth\Debug\forth.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>forth.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>forth.map</FILE>
+  <FILE>forth.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inicio><FILE>D:\Programming\ATMega\Assembly\micro_asm\forth\forth\main.asm</FILE><LINE>25</LINE></inicio>
+  <rotina_int0><FILE>D:\Programming\ATMega\Assembly\micro_asm\forth\forth\main.asm</FILE><LINE>47</LINE></rotina_int0>
+  <rotina_int1><FILE>D:\Programming\ATMega\Assembly\micro_asm\forth\forth\main.asm</FILE><LINE>52</LINE></rotina_int1>
+  <loop><FILE>D:\Programming\ATMega\Assembly\micro_asm\forth\forth\main.asm</FILE><LINE>37</LINE></loop>
+  <end><FILE>D:\Programming\ATMega\Assembly\micro_asm\forth\forth\main.asm</FILE><LINE>44</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>
