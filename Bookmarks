@@ -1,0 +1,235 @@
+{
+   "checksum": "807dce2c18bcded9af379baa2d180aeb",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13171054930183185",
+               "id": "6",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930183314"
+               },
+               "name": "arduino types and processors - Pesquisa Google",
+               "type": "url",
+               "url": "https://www.google.com.br/search?ei=xan9WveSMMuGwgSZwK2QBg&q=arduino+types+and+processors&oq=arduino+types+and+processors&gs_l=psy-ab.3..33i160k1.33677.38569.0.38681.19.16.1.2.2.0.149.1403.4j9.13.0....0...1c.1.64.psy-ab..3.16.1409...0j0i67k1j0i22i30k1j0i19k1j0i22i30i19k1j33i22i29i30k1.0.m1YLhYMk6uw"
+            }, {
+               "date_added": "13171054930183339",
+               "id": "7",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930183389"
+               },
+               "name": "Arduino - Compare",
+               "type": "url",
+               "url": "https://www.arduino.cc/en/Products/Compare"
+            }, {
+               "date_added": "13171054930183403",
+               "id": "8",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930183446"
+               },
+               "name": "Arduino Reference",
+               "type": "url",
+               "url": "https://www.arduino.cc/reference/en/"
+            }, {
+               "date_added": "13171054930183461",
+               "id": "9",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930183516"
+               },
+               "name": "Arduino Reference",
+               "type": "url",
+               "url": "https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/"
+            }, {
+               "date_added": "13171054930183524",
+               "id": "10",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930183577"
+               },
+               "name": "Arduino Reference",
+               "type": "url",
+               "url": "https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/"
+            }, {
+               "date_added": "13171054930183585",
+               "id": "11",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930183632"
+               },
+               "name": "Arduino - DigitalPins",
+               "type": "url",
+               "url": "https://www.arduino.cc/en/Tutorial/DigitalPins"
+            }, {
+               "date_added": "13171054930183642",
+               "id": "12",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930183686"
+               },
+               "name": "Arduino - Tutorials",
+               "type": "url",
+               "url": "https://www.arduino.cc/en/Tutorial/HomePage"
+            }, {
+               "date_added": "13171054930183700",
+               "id": "13",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930183743"
+               },
+               "name": "Arduino - Hacking",
+               "type": "url",
+               "url": "https://www.arduino.cc/en/Hacking/HomePage"
+            }, {
+               "date_added": "13171054930183756",
+               "id": "14",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930183805"
+               },
+               "name": "Arduino - Foundations",
+               "type": "url",
+               "url": "https://www.arduino.cc/en/Tutorial/Foundations"
+            }, {
+               "date_added": "13171054930183813",
+               "id": "15",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930183859"
+               },
+               "name": "Arduino - BuiltInExamples",
+               "type": "url",
+               "url": "https://www.arduino.cc/en/Tutorial/BuiltInExamples"
+            }, {
+               "date_added": "13171054930183871",
+               "id": "16",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930183945"
+               },
+               "name": "arduino pinout - Pesquisa Google",
+               "type": "url",
+               "url": "https://www.google.com.br/search?q=arduino+pinout&tbm=isch&source=iu&ictx=1&fir=meUPi8eemLzITM%253A%252CoJw80SZuqk0RbM%252C_&usg=__U4_lO3LItONog1lFUTUraECURN4%3D&sa=X&ved=0ahUKEwjDjvjhk43bAhUMlpAKHfJ9DlUQ9QEILDAA#imgrc=f_mKWB5x-yMR8M:"
+            }, {
+               "date_added": "13171054930183957",
+               "id": "17",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930184039"
+               },
+               "name": "arduino pinout - Pesquisa Google",
+               "type": "url",
+               "url": "https://www.google.com.br/search?q=arduino+pinout&tbm=isch&tbs=simg:CAQSmAEJBkx9Ib5q5m8ajAELEKjU2AQaBggVCAkICgwLELCMpwgaYQpfCAMSJ4YKuROMCkm1E_10H-we0E54TiwiGN7g-tz7CPrY-uT6UN5M3iDe8PhowE-QNcmz-aBAJs72eaBebE82MOCA6iPgudiAHl1qGTzgckPqLwMEVuRf4HCnO4Vq_1IAQMCxCOrv4IGgoKCAgBEgR1rwo4DA&sa=X&ved=0ahUKEwiD18Hnk43bAhXChJAKHZ1QB1QQ2A4IJSgB&biw=1600&bih=794#imgrc=Ntu1DX5uzE4w9M:"
+            }, {
+               "date_added": "13171054930184052",
+               "id": "18",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930184110"
+               },
+               "name": "6f193f2a022b9c57fac5af8a14c3afc5.png (2574×1822)",
+               "type": "url",
+               "url": "https://i.pinimg.com/originals/6f/19/3f/6f193f2a022b9c57fac5af8a14c3afc5.png"
+            }, {
+               "date_added": "13171054930184121",
+               "id": "19",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930184181"
+               },
+               "name": "ATmega328/P",
+               "type": "url",
+               "url": "file:///D:/Documents/my_dir/micro_asm/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf"
+            }, {
+               "date_added": "13171054930184191",
+               "id": "20",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930184247"
+               },
+               "name": "AVR Instruction Set Manual",
+               "type": "url",
+               "url": "file:///D:/Documents/my_dir/micro_asm/Atmel-0856-AVR-Instruction-Set-Manual.pdf"
+            }, {
+               "date_added": "13171054930184257",
+               "id": "21",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930184341"
+               },
+               "name": "inline assembly arduino - Pesquisa Google",
+               "type": "url",
+               "url": "https://www.google.com.br/search?q=inline+assembly+arduino&oq=inline+assembly+arduino&aqs=chrome..69i57j0l5.4687j0j7&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13171054930184351",
+               "id": "22",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930184455"
+               },
+               "name": "Beta Componentes Eletrônicos - Home",
+               "type": "url",
+               "url": "https://www.betacomercial.com.br/loja/"
+            }, {
+               "date_added": "13171054930184462",
+               "id": "23",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930184592"
+               },
+               "name": "cheap shield dac arduino - Pesquisa Google",
+               "type": "url",
+               "url": "https://www.google.com.br/search?ei=tcP9Wu3cHcSZwQSZ9KCgBQ&q=cheap+shield+dac+arduino&oq=cheap+shield+dac+arduino&gs_l=psy-ab.3...1704.8584.0.9103.20.14.6.0.0.0.161.1299.6j6.12.0....0...1c.1.64.psy-ab..3.1.103...0i13i30k1j0i8i13i30k1.0.apxCH9KXZhY"
+            }, {
+               "date_added": "13171054930184600",
+               "id": "24",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930184717"
+               },
+               "name": "MCP4725 Breakout Board - 12-Bit DAC w/I2C Interface ID: 935 - $4.95 : Adafruit Industries, Unique & fun DIY electronics and kits",
+               "type": "url",
+               "url": "https://www.adafruit.com/product/935"
+            }, {
+               "date_added": "13171054930184724",
+               "id": "25",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930184910"
+               },
+               "name": "Resultados da Pesquisa de imagens do Google para https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schiffeversenk.jpg/250px-Schiffeversenk.jpg",
+               "type": "url",
+               "url": "https://www.google.com.br/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schiffeversenk.jpg/250px-Schiffeversenk.jpg&imgrefurl=https://pt.wikipedia.org/wiki/Batalha_naval_(jogo)&h=258&w=250&tbnid=Q5nbWd5vafIuXM:&tbnh=186&tbnw=180&usg=__hdDx1ELN3PorqQU7Rvfd5UAMbnU%3D&vet=10ahUKEwjcg5eLro3bAhWBg5AKHVn6D-4Q_B0IugEwCg..i&docid=pZkBQJcizIz-dM&itg=1&sa=X&ved=0ahUKEwjcg5eLro3bAhWBg5AKHVn6D-4Q_B0IugEwCg"
+            }, {
+               "date_added": "13171054930184916",
+               "id": "26",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930185025"
+               },
+               "name": "chrome bookmarks folder - Pesquisa Google",
+               "type": "url",
+               "url": "https://www.google.com.br/search?q=chrome+bookmarks+folder&oq=chrome+bookmar&aqs=chrome.2.69i57j0l5.8591j0j7&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13171054930185030",
+               "id": "27",
+               "meta_info": {
+                  "last_visited_desktop": "13171054930185114"
+               },
+               "name": "Where does Chrome save its bookmarks on Windows? - Super User",
+               "type": "url",
+               "url": "https://superuser.com/questions/376366/where-does-chrome-save-its-bookmarks-on-windows"
+            } ],
+            "date_added": "13171054930182819",
+            "date_modified": "13171054930185030",
+            "id": "5",
+            "name": "teste",
+            "type": "folder"
+         } ],
+         "date_added": "13171046991823724",
+         "date_modified": "13171054930185133",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13171046991823739",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13171046991823740",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Favoritos de dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
