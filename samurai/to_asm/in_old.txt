@@ -1,0 +1,58 @@
+specialsetup:
+
+sbi 0x04, 5
+cbi 0x0A, 2
+
+specialsetup}
+
+specialloop:
+
+start:
+sbic 0x09, 2
+rjmp start2
+rjmp start1
+
+start1:
+ldi r17, 0xff
+mov r8, r17
+ldi r17, 0x40
+mov r9, r17
+ldi r19, 0x10
+sbi 0x05, 5
+rcall atraso
+ldi r17, 0xff
+mov r8, r17
+ldi r17, 0x40
+mov r9, r17
+ldi r19, 0x10
+cbi 0x05, 5
+rcall atraso
+rjmp start
+
+start2:
+ldi r17, 0xff
+mov r8, r17
+ldi r17, 0x40
+mov r9, r17
+ldi r19, 0x20
+sbi 0x05, 5
+rcall atraso
+ldi r17, 0xff
+mov r8, r17
+ldi r17, 0x40
+mov r9, r17
+ldi r19, 0x20
+cbi 0x05, 5
+rcall atraso
+rjmp start
+
+atraso:
+dec r8
+brne atraso
+dec r9
+brne atraso
+dec r19
+brne atraso
+ret
+
+specialloop}

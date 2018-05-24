@@ -1,0 +1,101 @@
+specialsetup:
+
+sbi 0x04, 5
+cbi 0x0A, 2
+cbi 0x0A, 3
+
+specialsetup}
+
+specialloop:
+
+start:
+sbic 0x09, 3
+rjmp pino_3_em_um
+rjmp pino_3_em_zero
+
+pino_3_em_zero:
+sbic 0x09, 2
+rjmp zero_um
+rjmp zero_zero
+
+
+pino_3_em_um:
+sbic 0x09, 2
+rjmp um_um
+rjmp um_zero
+
+zero_zero:
+sbi 0x05, 5
+rcall atraso_15ms
+rcall atraso_5ms
+cbi 0x05, 5
+rcall atraso_15ms
+rcall atraso_15ms
+rcall atraso_5ms
+rjmp start
+
+zero_um:
+sbi 0x05, 5
+rcall atraso_15ms
+rcall atraso_5ms
+rcall atraso_15ms
+rcall atraso_5ms
+cbi 0x05, 5
+rcall atraso_15ms
+rcall atraso_15ms
+rcall atraso_15ms
+rjmp start
+
+um_zero:
+sbi 0x05, 5
+rcall atraso_15ms
+rcall atraso_5ms
+cbi 0x05, 5
+rcall atraso_15ms
+rcall atraso_5ms
+rjmp start
+
+um_um:
+sbi 0x05, 5
+rcall atraso_15ms
+rcall atraso_5ms
+rcall atraso_15ms
+rcall atraso_5ms
+cbi 0x05, 5
+rcall atraso_15ms
+rcall atraso_5ms
+rcall atraso_15ms
+rcall atraso_5ms
+rjmp start
+
+atraso_15ms:
+ldi r18, 0x4c
+ldi r21, 0x29
+rjmp loop1
+
+atraso_5ms:
+ldi r18, 0x34
+ldi r21, 0x1c
+	
+loop1:
+mov r19, r18
+loop2:
+mov r20, r19
+loop3:
+dec r20
+brne loop3
+dec r19
+brne loop2
+dec r18
+brne loop1
+
+loop4:
+mov r22, r21
+loop5:
+dec r22
+brne loop5
+dec r21
+brne loop4
+ret
+
+specialloop}
