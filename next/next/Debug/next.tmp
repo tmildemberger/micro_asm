@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Documents\essa_pasta_e_minha\micro_asm\next\next\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Documents\essa_pasta_e_minha\micro_asm\next\next\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Documents\essa_pasta_e_minha\micro_asm\next\next\Debug\next.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>next.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>next.map</FILE>
+  <FILE>next.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inicio><FILE>D:\Documents\essa_pasta_e_minha\micro_asm\next\next\main.asm</FILE><LINE>13</LINE></inicio>
+  <program><FILE>D:\Documents\essa_pasta_e_minha\micro_asm\next\next\main.asm</FILE><LINE>19</LINE></program>
+  <atraso_15ms><FILE>D:\Documents\essa_pasta_e_minha\micro_asm\next\next\main.asm</FILE><LINE>27</LINE></atraso_15ms>
+  <end><FILE>D:\Documents\essa_pasta_e_minha\micro_asm\next\next\main.asm</FILE><LINE>24</LINE></end>
+  <loop1><FILE>D:\Documents\essa_pasta_e_minha\micro_asm\next\next\main.asm</FILE><LINE>36</LINE></loop1>
+  <atraso_5ms><FILE>D:\Documents\essa_pasta_e_minha\micro_asm\next\next\main.asm</FILE><LINE>32</LINE></atraso_5ms>
+  <loop2><FILE>D:\Documents\essa_pasta_e_minha\micro_asm\next\next\main.asm</FILE><LINE>38</LINE></loop2>
+  <loop3><FILE>D:\Documents\essa_pasta_e_minha\micro_asm\next\next\main.asm</FILE><LINE>40</LINE></loop3>
+  <loop4><FILE>D:\Documents\essa_pasta_e_minha\micro_asm\next\next\main.asm</FILE><LINE>48</LINE></loop4>
+  <loop5><FILE>D:\Documents\essa_pasta_e_minha\micro_asm\next\next\main.asm</FILE><LINE>50</LINE></loop5>
+ </LABELS>
+</ASSEMBLER_INFO>
